@@ -41,12 +41,6 @@ This project was collaboratively built by our team members:
 
 > _Thanks to everyone for their hard work, creativity, and dedication._
 
-**Instructor:** *Sadika Islam Sneha*  
-**Course:** CSE 495 – IT Project Management and Entrepreneurship  
-**Department:** Computer Science and Engineering, East West University  
-**Semester:** Summer 2025  
-**Submission Date:** September 3, 2025  
-
 ---
 
 ## 🧩 Project Components
