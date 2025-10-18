@@ -143,9 +143,9 @@ LagbeNaki? builds a business that balances **profit, people, and planet**:
 ## 🔗 Hosted Website
 
 > 🌐 **Visit the live prototype:**  
-> [https://lagbenaki.netlify.app/](https://lagbenaki.netlify.app/)
+> [https://lagbenaki.netlify.app/](https://lagbenaki.netlify.app)
 
-*(If redeployed, update the link here.)*
+*(If the site is redeployed, update the link here.)*
 
 ---
 
