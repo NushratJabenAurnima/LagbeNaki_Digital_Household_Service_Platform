@@ -164,7 +164,6 @@ LagbeNaki? builds a business that balances **profit, people, and planet**:
 > 🌐 **Visit the live prototype:**  
 > [https://lagbenaki.netlify.app](https://lagbenaki.netlify.app)
 
-*(If the site is redeployed, update the link here.)*
 
 ---
 
