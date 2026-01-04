@@ -148,19 +148,6 @@ LagbeNaki? builds a business that balances **profit, people, and planet**:
 
 ---
 
-## 👥 Collaboration
-
-This project was collaboratively built by our team members:
-
-- [Nusrat Jaben Aurnima](https://github.com/NushratJabenAurnima)  
-- [Zihad Khan](https://github.com/Zihad107)  
-- [Shairin Akter Hashi](https://github.com/Shairin207)  
-- [MD Shahrukh Hossain Shihab](https://github.com/shihab372)
-
-> _Thanks to everyone for their effort, creativity, and dedication._
-
----
-
 ## 🧾 Reference
 
 **Course:** CSE 495 – IT Project Management and Entrepreneurship  
