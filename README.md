@@ -1,7 +1,5 @@
 # 🏠 LagbeNaki? – Help Ashche Click-e
 
-# 🏠 What is "LagbeNaki?" ?
-
 The **LagbeNaki?** project is a **business and entrepreneurship innovation** designed for **CSE 495: IT Project Management and Entrepreneurship**.  
 It proposes a smart, sustainable, and digital household-service platform that connects users with verified, trusted, and eco-conscious home helpers — making daily life more efficient, safe, and balanced.
 
