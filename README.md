@@ -1,22 +1,5 @@
 # 🏠 LagbeNaki? – Help Ashche Click-e
 
-## Table of Contents
-1. [📌 Project Overview](#project-overview)
-2. [💡 Mission](#mission)
-3. [🌟 Vision](#vision)
-4. [👥 Collaboration](#collaboration)
-5. [🧩 Project Components](#project-components)
-6. [🚀 Key Highlights](#key-highlights)
-7. [📊 Project Timeline](#project-timeline)
-8. [💰 Financial Overview](#financial-overview)
-9. [⚙️ Risk Mitigation Summary](#risk-mitigation-summary)
-10. [📈 KPIs (Key Performance Indicators)](#kpis-key-performance-indicators)
-11. [🧭 Growth Strategies](#growth-strategies)
-12. [🌱 Sustainability & Ethics](#sustainability--ethics)
-13. [🔗 Hosted Website](#hosted-website)
-14. [🧾 Reference](#reference)
-
-
 # 🏠 What is "LagbeNaki?" ?
 
 The **LagbeNaki?** project is a **business and entrepreneurship innovation** designed for **CSE 495: IT Project Management and Entrepreneurship**.  
